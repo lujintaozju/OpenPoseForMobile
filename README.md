@@ -1,6 +1,6 @@
-## This is an Andriod APP for OpenPose at mobilephones, app_release.apk is the runable release. The lightweight network was trained in MSCOCO and got over 0.27 AP, and works with 60 ms per frame at Qualcomm SnapDragon 855 SoC's GPU.
+This is an Andriod APP for OpenPose at mobilephones, app_release.apk is the runable release. The lightweight network was trained in MSCOCO and got over 0.27 AP, and works with 60 ms per frame at Qualcomm SnapDragon 855 SoC's GPU.
 
-## This APP was modified from the Android demo in https://github.com/edvardHua/PoseEstimationForMobile, written in Kotlin and Java, thanks a lot for this awesome framework. The post-processing of PAF and HeatMap was added for Multi-Person Pose Estimation.
+This APP was modified from the Android demo in https://github.com/edvardHua/PoseEstimationForMobile, written in Kotlin and Java, thanks a lot for this awesome framework. The post-processing of PAF and HeatMap was added for Multi-Person Pose Estimation.
 
 
 
