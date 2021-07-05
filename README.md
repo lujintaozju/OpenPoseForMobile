@@ -3,7 +3,7 @@ This is an Andriod APP for OpenPose at mobilephones, app_release.apk is the runa
 This APP was modified from the Android demo in https://github.com/edvardHua/PoseEstimationForMobile, written in Kotlin and Java, thanks a lot for this awesome framework. The post-processing of PAF and HeatMap was added for Multi-Person Pose Estimation.
 
 
-Co-working with Huaijin Pi and Zizhang Li.
+Co-worked with Huaijin Pi and Zizhang Li.
 
 # TF Lite Android App
 
